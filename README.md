@@ -1,2 +1,2 @@
 # CTFs
-All writeups from my CTFs
+All writeups from CTFs competition by me

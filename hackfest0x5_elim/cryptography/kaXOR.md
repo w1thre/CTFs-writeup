@@ -18,7 +18,7 @@ a = open('cipher.txt', 'w')
 a.write(cipher)
 a.close()
 ```
-It can be seen that the key is only 1 letter because the python file is written (^ key) instead of (^ key[x]). Here I use a PHP script from the previous CCUG documentation\
+It can be seen that the key is only 1 letter because the python file is written (^ key) instead of (^ key[x]). Here I use a PHP script from the previous CCUG documentation
 ```php
 <?php
 $cipher = file_get_contents("cipher.txt");
